@@ -3,7 +3,7 @@ module github.com/openshift-sustaining/arc-test-component-b/sub-a
 go 1.24
 
 require (
-	github.com/golang/glog v1.2.1
+	github.com/golang/glog v1.2.4
 	google.golang.org/grpc v1.65.0
 )
 
